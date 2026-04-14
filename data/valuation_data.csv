@@ -1,0 +1,11 @@
+company,sector,wacc,terminal_growth,enterprise_value
+HCLTech,0,0.075,0.035,348000
+HCLTech,0,0.085,0.035,304000
+HCLTech,0,0.095,0.035,285006
+HCLTech,0,0.095,0.025,248000
+HCLTech,0,0.095,0.045,314000
+Eternal,1,0.110,0.050,74000
+Eternal,1,0.120,0.050,61000
+Eternal,1,0.130,0.050,57345
+Eternal,1,0.130,0.035,44000
+Eternal,1,0.130,0.070,65000
